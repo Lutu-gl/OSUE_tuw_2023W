@@ -3,6 +3,7 @@
 ## Rating
 
 Points received:
+
 10/10 for client
 
 10/10 for server
