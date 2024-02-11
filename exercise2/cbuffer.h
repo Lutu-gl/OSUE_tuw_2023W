@@ -1,6 +1,6 @@
 /**
  * @file cbuffer.h
- * @author Luca TURIN, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of circular buffer functions for inter-process communication.
  * @details This file contains functions to create, open, and manipulate a circular buffer for inter-process communication. Generator.c and supervisor.c depend on it
  * @version 0.1

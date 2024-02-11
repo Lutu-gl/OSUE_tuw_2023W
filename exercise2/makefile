@@ -1,5 +1,5 @@
 # Makefile for exercise 2: 3 color algorithm
-# author: Luca TURIN (xxxxxxx) <exxxxxxx@student.tuwien.ac.at>
+# author: Luca (xxxxxxx) <exxxxxxx@student.tuwien.ac.at>
 # date: 2023-12-07
 
 CC = gcc

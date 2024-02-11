@@ -1,6 +1,6 @@
 /**
  * @file cbuffer.c
- * @author Luca TURIN, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of circular buffer functions for inter-process communication.
  * @details This file contains functions to create, open, and manipulate a circular buffer for inter-process communication. Generator.c and supervisor.c depend on it
  * @version 0.1
@@ -16,10 +16,10 @@
 #include <unistd.h>
 #include <sys/types.h>
 
-#define SHM_NAME "/122220876_SHM"
-#define SEM_FREE_NAME "/12220876_SEMFREE"
-#define SEM_USED_NAME "/12220876_SEMUSED"
-#define SEM_MUTEX_NAME "/12220876_SEMMUTEX"
+#define SHM_NAME "/xxxxxxx_SHM"
+#define SEM_FREE_NAME "/xxxxxxx_SEMFREE"
+#define SEM_USED_NAME "/xxxxxx_SEMUSED"
+#define SEM_MUTEX_NAME "/xxxxxx_SEMMUTEX"
 
 circularBuffer *create_cbuffer_server(int *shmfd, semaphores* sems){ 
     *shmfd = shm_open(SHM_NAME, O_RDWR | O_CREAT, 0600);

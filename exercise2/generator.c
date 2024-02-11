@@ -1,6 +1,6 @@
 /**
  * @file generator.c
- * @author Luca TURIN, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of the generator to generate solution for 3-color problem
  * @details The program implements an algorithm, that reads a number of edges, forms a graph and tries to find a solution for the 3-color problem
  * 			It colors the vertixes randomly, and calculates the min. edges that have to be removed to make the graph 3-color "able".

@@ -1,6 +1,6 @@
 /**
  * @file supervisor.c
- * @author Luca TURIN, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxx (exxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of the generator to generate solution for 3-color problem
  * @details The program implements an algorithm, that reads from generators (see generator.c). 
  * 			The supervisor sets up the shared memory and the semaphores and initializes the circular buffer required

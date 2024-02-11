@@ -1,6 +1,6 @@
 /**
  * @file forkFFT.c
- * @author Luca TURIN, xxxxxxxx (exxxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxxx (exxxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of the Cooley-Tukey Fast Fourier Tranformation algorithm using fork
  * @details The program implements the Cooley Tukey Fast Fourer Transformation. Input are 2^n real numbers, output are 2^n imaginary numbers.
  *          This program reads input data from stdin, performs FFT using the Cooley-Tukey algorithm on input data using a parallelized approach.

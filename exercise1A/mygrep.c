@@ -1,6 +1,6 @@
 /**
  * @file mygrep.c
- * @author Luca TURIN, xxxxxxxx (exxxxxxxxxx@student.tuwien.ac.at)
+ * @author Luca, xxxxxxxx (exxxxxxxxxx@student.tuwien.ac.at)
  * @brief Implementation of a reduced variation of the Unix-command grep. Reads in several files and prints all lines containing a keyword
  * @details reduced version of the unix-command grep, input is a keyword, inputfiles or stdin, and a argument [i] if search should be case insensitive
  * @version 0.1
